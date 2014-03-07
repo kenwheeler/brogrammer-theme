@@ -776,21 +776,21 @@
     },
     {
         "class": "auto_complete",
-        "row_padding": [15,15]
+        "row_padding": [5,5]
     },
     {
         "class": "auto_complete_label",
         "fg": [255,255,255],
-        "match_fg": [231,76,60],
+        "match_fg": [255,255,255],
         "selected_fg": [255,255,255],
-        "selected_match_fg": [231,76,60]
+        "selected_match_fg": [255,255,255]
     },
     {
         "class": "table_row",
         "layer0.texture": "",
-        "layer0.tint":[0,0,0],
+        "layer0.tint":[231,76,60],
         "layer0.opacity": 0,
-        "layer0.inner_margin": [10,10]
+        "layer0.inner_margin": [5,5]
     },
     {
         "class": "table_row",
