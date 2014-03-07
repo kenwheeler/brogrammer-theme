@@ -28,7 +28,3 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
   "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
 }
 ```
-
-### Credits
-
-Most icons are from the fantastic [Spacegray](https://github.com/kkga/spacegray) by [Gadzhi Kharkharov](https://github.com/kkga/) - the folder icon seen in the sidebar is from the talented [Joe Harrison](http://thenounproject.com/joe_harrison/) via [the noun project](http://thenounproject.com/). 
