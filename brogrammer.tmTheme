@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Glacier</string>
+    <string>Brogrammer</string>
     <key>settings</key>
     <array>
         <dict>
@@ -24,9 +24,9 @@
                 <key>selectionForeground</key>
                 <string>#ffffff</string>
                 <key>findHighlight</key>
-                <string>#5eebb8</string>
+                <string>#e74c3c</string>
                 <key>inactiveSelection</key>
-                <string>#5eebb8</string>
+                <string>#e74c3c</string>
                 <key>gutter</key>
                 <string>#2a2a2a</string>
                 <key>gutterForeground</key>
