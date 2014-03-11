@@ -18,7 +18,7 @@
                 <key>invisibles</key>
                 <string>#F3FFB51A</string>
                 <key>lineHighlight</key>
-                <string>#e74c3c</string>
+                <string>#666666</string>
                 <key>selection</key>
                 <string>#2a2a2a</string>
                 <key>selectionForeground</key>
