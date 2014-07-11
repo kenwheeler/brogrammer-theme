@@ -784,13 +784,13 @@
         "class": "quick_panel_row",
         "attributes": ["hover"],
         "layer0.texture": "",
-        "layer0.tint": [3,4,5]
+        "layer0.tint": [192, 57, 43]
     },
     {
         "class": "quick_panel_row",
         "attributes": ["selected"],
         "layer0.texture": "",
-        "layer0.tint": [3,4,5]
+        "layer0.tint": [192, 57, 43]
     },
     {
         "class": "quick_panel_label",
