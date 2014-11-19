@@ -621,7 +621,18 @@
 //
 // SIDEBAR - GENERAL FILE ICONS
 //
-
+    {
+        "class": "icon_file_type",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder_loading",
+        "content_margin": [0,0]
+    },
     // Sidebar group closed
     {
         "class": "disclosure_button_control",
