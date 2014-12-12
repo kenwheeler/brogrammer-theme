@@ -276,7 +276,7 @@
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
         "layer0.texture": "",
-        "layer0.tint":[34,34,341],
+        "layer0.tint":[34,34,34],
         "layer0.inner_margin": [0,0],
         "blur": true
     },
