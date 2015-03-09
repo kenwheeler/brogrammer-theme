@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>name</key>
@@ -28,7 +28,7 @@
                 <key>inactiveSelection</key>
                 <string>#e74c3c</string>
                 <key>gutter</key>
-                <string>#2a2a2a</string>
+                <string>#222222</string>
                 <key>gutterForeground</key>
                 <string>#ffffff</string>
                 <key>guide</key>
@@ -60,7 +60,7 @@
                 <key>foreground</key>
                 <string>#6c71c4</string>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
             </dict>
         </dict>
         <dict>
@@ -71,7 +71,7 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
                 <key>foreground</key>
                 <string>#2ecc71</string>
             </dict>
@@ -97,7 +97,7 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
                 <key>foreground</key>
                 <string>#3498db</string>
             </dict>
@@ -110,7 +110,7 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
                 <key>foreground</key>
                 <string>#f1c40f</string>
             </dict>
@@ -138,7 +138,7 @@
                 <key>foreground</key>
                 <string>#e67e22</string>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
             </dict>
         </dict>
         <dict>
@@ -162,7 +162,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string></string>
+                <string />
             </dict>
         </dict>
         <dict>
@@ -173,7 +173,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string></string>
+                <string />
             </dict>
         </dict>
         <dict>
@@ -197,7 +197,7 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
                 <key>foreground</key>
                 <string>#f1c40f</string>
             </dict>
@@ -243,7 +243,7 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
                 <key>foreground</key>
                 <string>#3498db</string>
             </dict>
@@ -256,14 +256,14 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
                 <key>foreground</key>
                 <string>#2ecc71</string>
             </dict>
         </dict>
         <dict>
             <key>name</key>
-            <string>C&#x2f;C++ Preprocessor Line</string>
+            <string>C/C++ Preprocessor Line</string>
             <key>scope</key>
             <string>other.preprocessor.c</string>
             <key>settings</key>
@@ -274,7 +274,7 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>C&#x2f;C++ Preprocessor Directive</string>
+            <string>C/C++ Preprocessor Directive</string>
             <key>scope</key>
             <string>other.preprocessor.c entity</string>
             <key>settings</key>
@@ -337,7 +337,7 @@
                 <key>foreground</key>
                 <string>#3498db</string>
                 <key>fontStyle</key>
-                <string></string>
+                <string />
             </dict>
         </dict>
         <dict>
@@ -444,61 +444,6 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>GitGutter deleted</string>
-            <key>scope</key>
-            <string>markup.deleted.git_gutter</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#d7503c</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>GitGutter inserted</string>
-            <key>scope</key>
-            <string>markup.inserted.git_gutter</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#2ecc71</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>GitGutter changed</string>
-            <key>scope</key>
-            <string>markup.changed.git_gutter</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#f1c40f</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>GitGutter ignored</string>
-            <key>scope</key>
-            <string>markup.ignored.git_gutter</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#2a2a2a</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>GitGutter untracked</string>
-            <key>scope</key>
-            <string>markup.untracked.git_gutter</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#2a2a2a</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
             <string>SublimeLinter Annotations</string>
             <key>scope</key>
             <string>sublimelinter.outline.notes</string>
@@ -585,8 +530,7 @@
             <dict>
                 <key>foreground</key>
                 <string>#2ecc71</string>
-                <!-- <key>fontStyle</key>
-                <string> bold</string> -->
+
             </dict>
         </dict>
         <dict>
@@ -598,8 +542,7 @@
             <dict>
                 <key>foreground</key>
                 <string>#2ecc71</string>
-                <!-- <key>fontStyle</key>
-                <string>bold</string> -->
+
             </dict>
         </dict>
         <dict>
@@ -749,7 +692,7 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Doctype&#x2f;XML Processing</string>
+            <string>Doctype/XML Processing</string>
             <key>scope</key>
             <string>meta.tag.sgml.doctype.xml, declaration.sgml.html declaration.doctype, declaration.sgml.html declaration.doctype entity, declaration.sgml.html declaration.doctype string, declaration.xml-processing, declaration.xml-processing entity, declaration.xml-processing string, doctype</string>
             <key>settings</key>
@@ -758,7 +701,37 @@
                 <string>#3c444d</string>
             </dict>
         </dict>
-    </array>
+    <dict>
+            <key>name</key>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDB700</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D02000</string>
+            </dict>
+        </dict></array>
     <key>uuid</key>
     <string>13E579BF-40AB-42E2-9EAB-0AD3EDD88532</string>
     <key>colorSpaceName</key>
