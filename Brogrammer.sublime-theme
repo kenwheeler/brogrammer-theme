@@ -57,7 +57,7 @@
         "class": "tab_control",
         "settings": ["!show_tab_close_buttons"],
         "attributes": ["dirty"],
-        "content_margin": [12,3,7,3],
+        "content_margin": [12,3,7,3]
     },
 
 //
@@ -107,7 +107,7 @@
                 "Theme - Brogrammer/Brogrammer/circleanim.png"
             ],
             "loop": true,
-            "frame_time": 0.100,
+            "frame_time": 0.100
         },
         "layer0.opacity": 1
     },
