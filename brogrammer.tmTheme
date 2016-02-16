@@ -138,7 +138,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#e67e22</string>
+                    <string>#ffffff</string>
                     <key>fontStyle</key>
                     <string/>
                 </dict>
