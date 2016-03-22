@@ -32,7 +32,7 @@
                     <key>gutter</key>
                     <string>#222222</string>
                     <key>gutterForeground</key>
-                    <string>#ffffff</string>
+                    <string>#555555</string>
                     <key>guide</key>
                     <string>#222222</string>
                     <key>activeGuide</key>
@@ -313,7 +313,7 @@
                 <key>name</key>
                 <string>css tag-name</string>
                 <key>scope</key>
-                <string>meta.selector.css entity.name.tag</string>
+                <string>meta.selector.css entity.name.tag, entity.name.tag.css.sass.symbol</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
