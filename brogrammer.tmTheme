@@ -180,6 +180,19 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Function argument</string>
+                <key>scope</key>
+                <string>variable.parameter</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#e67e22</string>
+                    <key>fontStyle</key>
+                    <string/>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>Entity inherited-class</string>
                 <key>scope</key>
                 <string>entity.other.inherited-class</string>
