@@ -138,7 +138,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#ffffff</string>
+                    <string>#e67e22</string>
                     <key>fontStyle</key>
                     <string/>
                 </dict>
@@ -175,19 +175,6 @@
                 <key>settings</key>
                 <dict>
                     <key>background</key>
-                    <string/>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>Function argument</string>
-                <key>scope</key>
-                <string>variable.parameter</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#e67e22</string>
-                    <key>fontStyle</key>
                     <string/>
                 </dict>
             </dict>
@@ -274,19 +261,6 @@
                     <string/>
                     <key>foreground</key>
                     <string>#2ecc71</string>
-                </dict>
-            </dict>
-            <dict>
-            <key>name</key>
-                <string>Library class/type</string>
-                <key>scope</key>
-                <string>support.type, support.class, variable.language</string>
-                <key>settings</key>
-                <dict>
-                    <key>fontStyle</key>
-                    <string/>
-                    <key>foreground</key>
-                    <string>#e67e22</string>
                 </dict>
             </dict>
             <dict>
@@ -813,6 +787,19 @@
                 <dict>
                     <key>foreground</key>
                     <string>#565656</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Library class/type</string>
+                <key>scope</key>
+                <string>variable.function</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string/>
+                    <key>foreground</key>
+                    <string>#ffffff</string>
                 </dict>
             </dict>
         </array>
