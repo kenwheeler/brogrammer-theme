@@ -61,8 +61,6 @@
                 <dict>
                     <key>foreground</key>
                     <string>#6c71c4</string>
-                    <key>fontStyle</key>
-                    <string/>
                 </dict>
             </dict>
             <dict>
@@ -72,8 +70,6 @@
                 <string>entity</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string/>
                     <key>foreground</key>
                     <string>#2ecc71</string>
                 </dict>
@@ -98,8 +94,6 @@
                 <string>storage</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string/>
                     <key>foreground</key>
                     <string>#3498db</string>
                 </dict>
@@ -111,8 +105,6 @@
                 <string>string</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string/>
                     <key>foreground</key>
                     <string>#f1c40f</string>
                 </dict>
@@ -139,8 +131,6 @@
                 <dict>
                     <key>foreground</key>
                     <string>#e67e22</string>
-                    <key>fontStyle</key>
-                    <string/>
                 </dict>
             </dict>
             <dict>
@@ -154,28 +144,6 @@
                     <string>#e74c3c</string>
                     <key>foreground</key>
                     <string>#ffffff</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>Embedded Source</string>
-                <key>scope</key>
-                <string>text source</string>
-                <key>settings</key>
-                <dict>
-                    <key>background</key>
-                    <string/>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>Embedded Source (Bright)</string>
-                <key>scope</key>
-                <string>text.html.ruby source</string>
-                <key>settings</key>
-                <dict>
-                    <key>background</key>
-                    <string/>
                 </dict>
             </dict>
             <dict>
@@ -198,8 +166,6 @@
                 <string>string.quoted source</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string/>
                     <key>foreground</key>
                     <string>#f1c40f</string>
                 </dict>
@@ -244,8 +210,6 @@
                 <string>support.function</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string/>
                     <key>foreground</key>
                     <string>#3498db</string>
                 </dict>
@@ -257,8 +221,6 @@
                 <string>support.constant</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string/>
                     <key>foreground</key>
                     <string>#2ecc71</string>
                 </dict>
@@ -338,8 +300,6 @@
                 <dict>
                     <key>foreground</key>
                     <string>#3498db</string>
-                    <key>fontStyle</key>
-                    <string/>
                 </dict>
             </dict>
             <dict>
@@ -796,8 +756,6 @@
                 <string>variable.function</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string/>
                     <key>foreground</key>
                     <string>#ffffff</string>
                 </dict>
