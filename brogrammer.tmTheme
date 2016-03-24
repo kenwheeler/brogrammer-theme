@@ -771,6 +771,17 @@
                     <string>#ffffff</string>
                 </dict>
             </dict>
+            <dict>
+                <key>name</key>
+                <string>Separators</string>
+                <key>scope</key>
+                <string>punctuation.separator</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#ffffff</string>
+                </dict>
+            </dict>
         </array>
         <key>uuid</key>
         <string>13E579BF-40AB-42E2-9EAB-0AD3EDD88532</string>
