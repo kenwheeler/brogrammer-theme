@@ -128,7 +128,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#2ecc71</string>
+                    <string>#e74c3c</string>
                 </dict>
             </dict>
             <dict>
@@ -802,6 +802,17 @@
                 <dict>
                     <key>foreground</key>
                     <string>#ffffff</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Section punctuation</string>
+                <key>scope</key>
+                <string>punctuation.section.embedded.begin, punctuation.section.embedded.end</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#3498db</string>
                 </dict>
             </dict>
             <dict>
