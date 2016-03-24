@@ -326,6 +326,17 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>CSS Selectors</string>
+                <key>scope</key>
+                <string>meta.selector.css entity.other.attribute-name.pseudo-element</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#f1c40f</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>css property-name:</string>
                 <key>scope</key>
                 <string>support.type.property-name.css</string>
@@ -369,7 +380,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#e74c3c</string>
+                    <string>#6c71c4</string>
                 </dict>
             </dict>
             <dict>
