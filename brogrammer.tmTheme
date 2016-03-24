@@ -111,6 +111,28 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Storage Modifiers</string>
+                <key>scope</key>
+                <string>storage.modifier</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#e74c3c</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Storage Types</string>
+                <key>scope</key>
+                <string>storage.type</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#2ecc71</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>String</string>
                 <key>scope</key>
                 <string>string</string>
@@ -773,9 +795,9 @@
             </dict>
             <dict>
                 <key>name</key>
-                <string>Separators</string>
+                <string>Separators and Terminators</string>
                 <key>scope</key>
-                <string>punctuation.separator</string>
+                <string>punctuation.separator, punctuation.terminator</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
