@@ -293,6 +293,17 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Script tags in HTML</string>
+                <key>scope</key>
+                <string>entity.name.tag.script, source.js.embedded.html</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#e74c3c</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>css tag-name</string>
                 <key>scope</key>
                 <string>meta.selector.css entity.name.tag, entity.name.tag.css.sass.symbol</string>
