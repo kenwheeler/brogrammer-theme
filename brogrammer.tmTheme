@@ -815,6 +815,28 @@
                     <string>#3498db</string>
                 </dict>
             </dict>
+            <dict>
+                <key>name</key>
+                <string>Markup</string>
+                <key>scope</key>
+                <string>markup.italic, markup.bold, markup.quote</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#f1c40f</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Raw strings in markup</string>
+                <key>scope</key>
+                <string>markup.raw</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#3498db</string>
+                </dict>
+            </dict>
         </array>
         <key>uuid</key>
         <string>13E579BF-40AB-42E2-9EAB-0AD3EDD88532</string>
