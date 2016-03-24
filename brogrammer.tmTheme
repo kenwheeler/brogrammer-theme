@@ -707,6 +707,17 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>HTML Doctype</string>
+                <key>scope</key>
+                <string>entity.name.tag.doctype.html, meta.tag.sgml.doctype.html</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#ffffff</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>SublimeLinter Gutter Mark</string>
                 <key>scope</key>
                 <string>sublimelinter.gutter-mark</string>
@@ -813,6 +824,17 @@
                 <dict>
                     <key>foreground</key>
                     <string>#ffffff</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Key/Value Separators</string>
+                <key>scope</key>
+                <string>punctuation.separator.key-value</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#e74c3c</string>
                 </dict>
             </dict>
             <dict>
