@@ -883,6 +883,28 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Markup Italics</string>
+                <key>scope</key>
+                <string>markup.italic</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string>italic</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Markup Bold</string>
+                <key>scope</key>
+                <string>markup.bold</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string>bold</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>Raw strings in markup</string>
                 <key>scope</key>
                 <string>markup.raw</string>
