@@ -26,7 +26,7 @@
         "layer0.tint": [51,51,51],
         "layer0.inner_margin": [0,0],
         "layer0.opacity": 0.7,
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-bar@2x.png",
+        "layer1.texture": "Theme - Brogrammer/images/tab-bar@2x.png",
         "layer1.opacity": 1
     },
     // Tab close state
@@ -49,7 +49,7 @@
         "layer0.texture": "",
         "layer0.tint": [51,51,51],
         "layer0.opacity": 1,
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-bar-active@2x.png",
+        "layer1.texture": "Theme - Brogrammer/images/tab-bar-active@2x.png",
         "layer1.opacity": 1
     },
     // Tab dirty state (close button hidden)
@@ -66,7 +66,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/close@2x.png",
         "layer0.opacity": 0,
         "layer0.tint": [170,170,170]
     },
@@ -94,17 +94,17 @@
         "layer0.texture": {
             "keyframes":
             [
-                "Theme - Brogrammer/Brogrammer/circleanim.png",
-                "Theme - Brogrammer/Brogrammer/circleanim2.png",
-                "Theme - Brogrammer/Brogrammer/circleanim3.png",
-                "Theme - Brogrammer/Brogrammer/circleanim4.png",
-                "Theme - Brogrammer/Brogrammer/circleanim5.png",
-                "Theme - Brogrammer/Brogrammer/circleanim6.png",
-                "Theme - Brogrammer/Brogrammer/circleanim5.png",
-                "Theme - Brogrammer/Brogrammer/circleanim4.png",
-                "Theme - Brogrammer/Brogrammer/circleanim3.png",
-                "Theme - Brogrammer/Brogrammer/circleanim2.png",
-                "Theme - Brogrammer/Brogrammer/circleanim.png"
+                "Theme - Brogrammer/images/circleanim.png",
+                "Theme - Brogrammer/images/circleanim2.png",
+                "Theme - Brogrammer/images/circleanim3.png",
+                "Theme - Brogrammer/images/circleanim4.png",
+                "Theme - Brogrammer/images/circleanim5.png",
+                "Theme - Brogrammer/images/circleanim6.png",
+                "Theme - Brogrammer/images/circleanim5.png",
+                "Theme - Brogrammer/images/circleanim4.png",
+                "Theme - Brogrammer/images/circleanim3.png",
+                "Theme - Brogrammer/images/circleanim2.png",
+                "Theme - Brogrammer/images/circleanim.png"
             ],
             "loop": true,
             "frame_time": 0.100
@@ -121,7 +121,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close.png",
+        "layer0.texture": "Theme - Brogrammer/images/close.png",
         "layer0.opacity": 1,
         "layer0.tint": [231,76,60]
     },
@@ -188,10 +188,10 @@
     {
         "class": "show_tabs_dropdown_button",
         "content_margin": [49, 50, 0, 0],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-dropdown-background.png",
+        "layer0.texture": "Theme - Brogrammer/images/tab-scroll-dropdown-background.png",
         "layer0.opacity": 0.3,
         "layer0.inner_margin": [0,0,0,0],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-dropdown.png",
+        "layer1.texture": "Theme - Brogrammer/images/tab-scroll-dropdown.png",
         "layer1.inner_margin": [0,0,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -199,7 +199,7 @@
     {
         "class": "show_tabs_dropdown_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-dropdown.png",
+        "layer1.texture": "Theme - Brogrammer/images/tab-scroll-dropdown.png",
         "layer1.inner_margin": [5,10,5,0],
         "layer1.tint": [231,76,60],
         "layer1.opacity": 1.0
@@ -208,11 +208,11 @@
     {
         "class": "scroll_tabs_left_button",
         "content_margin": [58, 50, -20, 0],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-background-left.png",
+        "layer0.texture": "Theme - Brogrammer/images/tab-scroll-background-left.png",
         "layer0.tint": [17,17,17],
         "layer0.opacity": 0.3,
         "layer0.inner_margin": [-30,-30,-30,-30],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-left.png",
+        "layer1.texture": "Theme - Brogrammer/images/tab-scroll-left.png",
         "layer1.inner_margin": [0,0,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -220,7 +220,7 @@
     {
         "class": "scroll_tabs_left_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-left.png",
+        "layer1.texture": "Theme - Brogrammer/images/tab-scroll-left.png",
         "layer1.tint": [231,76,60],
         "layer1.opacity": 1.0
     },
@@ -228,11 +228,11 @@
     {
         "class": "scroll_tabs_right_button",
         "content_margin": [58, 50, -20, 0],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-background-right.png",
+        "layer0.texture": "Theme - Brogrammer/images/tab-scroll-background-right.png",
         "layer0.tint": [17,17,17],
         "layer0.opacity": 0.3,
         "layer0.inner_margin": [-30,-30,-30,-30],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-right.png",
+        "layer1.texture": "Theme - Brogrammer/images/tab-scroll-right.png",
         "layer1.inner_margin": [0,0,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -240,7 +240,7 @@
     {
         "class": "scroll_tabs_right_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-right.png",
+        "layer1.texture": "Theme - Brogrammer/images/tab-scroll-right.png",
         "layer1.tint": [231,76,60],
         "layer1.opacity": 1.0
     },
@@ -251,7 +251,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-closed@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/folder-closed@2x.png",
         "layer0.opacity": 1,
         "layer0.inner_margin": 0,
         "content_margin": [8,8]
@@ -264,7 +264,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/folder-open@2x.png",
         "layer0.opacity": 0.25
     },
     {
@@ -586,7 +586,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/circle@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/circle@2x.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
         "layer0.tint": [231,76,60],
@@ -602,7 +602,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/circle@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/circle@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [231,76,60]
     },
@@ -610,13 +610,13 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png"
+        "layer0.texture": "Theme - Brogrammer/images/close@2x.png"
     },
     {
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/close@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [231,76,60]
     },
@@ -624,12 +624,12 @@
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png"
+        "layer0.texture": "Theme - Brogrammer/images/close@2x.png"
     },
     {
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover","selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/close@2x.png",
         "layer0.opacity": 1
     },
 
@@ -638,7 +638,9 @@
 //
     {
         "class": "icon_file_type",
-        "content_margin": [0,0]
+        // layer0.texture is filled in by code with the relevant icon name
+        "layer0.opacity": 1.0,
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_folder",
@@ -652,7 +654,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [9,9],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-closed@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/folder-closed@2x.png",
         "layer0.tint": [170,170,170],
         "layer0.opacity": 1,
         "layer0.inner_margin": [2,2]
@@ -680,7 +682,7 @@
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-closed@2x.png",
+        "layer0.texture": "Theme - Brogrammer/images/folder-closed@2x.png",
         "layer0.tint": [170,170,170],
         "layer0.opacity": 1
     },
@@ -688,40 +690,40 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Brogrammer/images/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Brogrammer/images/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Brogrammer/images/folder-open@2x.png"
     },
     // Sidebar folder open
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Brogrammer/images/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Brogrammer/images/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Brogrammer/images/folder-open@2x.png"
     },
 
 //
@@ -767,7 +769,7 @@
     {
         "class": "dropdown_button_control",
         "content_margin": [10, 10],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/circleanim.png",
+        "layer0.texture": "Theme - Brogrammer/images/circleanim.png",
         "layer0.tint": [231, 76, 60],
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [0, 0]
@@ -964,7 +966,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/regex.png",
+        "layer0.texture": "Theme - Brogrammer/images/regex.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -982,7 +984,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/casesens.png",
+        "layer0.texture": "Theme - Brogrammer/images/casesens.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1000,7 +1002,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/wholeword.png",
+        "layer0.texture": "Theme - Brogrammer/images/wholeword.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1023,7 +1025,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/context.png",
+        "layer0.texture": "Theme - Brogrammer/images/context.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1041,7 +1043,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/buffer.png",
+        "layer0.texture": "Theme - Brogrammer/images/buffer.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1063,7 +1065,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/reverse.png",
+        "layer0.texture": "Theme - Brogrammer/images/reverse.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1081,7 +1083,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/wrap.png",
+        "layer0.texture": "Theme - Brogrammer/images/wrap.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1099,7 +1101,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/selection.png",
+        "layer0.texture": "Theme - Brogrammer/images/selection.png",
         "layer0.tint": [79,91,103],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1122,7 +1124,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/casesens.png",
+        "layer0.texture": "Theme - Brogrammer/images/casesens.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1145,7 +1147,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/highlight.png",
+        "layer0.texture": "Theme - Brogrammer/images/highlight.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
