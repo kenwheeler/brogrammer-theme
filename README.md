@@ -2,8 +2,8 @@
 
 Brogrammer is a flat sexy theme. Pushups not included.
 
-![Brogrammer Screenshot](http://i.imgur.com/7EPa8Wm.png)
-![Brogrammer Screenshot](http://i.imgur.com/hXE6jYP.png)
+![Brogrammer Screenshot](http://imgur.com/YiLgxEn)
+![Brogrammer Screenshot](http://imgur.com/SSjMCg0)
 
 ## Install
 
