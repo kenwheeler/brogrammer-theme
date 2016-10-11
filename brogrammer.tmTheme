@@ -76,6 +76,50 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Inserted</string>
+                <key>scope</key>
+                <string>markup.inserted</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#2ecc71</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Deleted</string>
+                <key>scope</key>
+                <string>markup.deleted</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#e74c3c</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Changed</string>
+                <key>scope</key>
+                <string>markup.changed</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#6c71c4</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Ignored</string>
+                <key>scope</key>
+                <string>markup.ignored</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#222222</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>Constant</string>
                 <key>scope</key>
                 <string>constant, support.constant</string>
