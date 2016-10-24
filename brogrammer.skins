@@ -1,0 +1,8 @@
+{
+    "Brogrammer": {
+        "Preferences": {
+            "theme": "Brogrammer.sublime-theme",
+            "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
+        }
+    }
+}

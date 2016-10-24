@@ -28,3 +28,5 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
   "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
 }
 ```
+
+If you're using ST3 you could also use the [Skins](https://packagecontrol.io/packages/Skins) package. Activation becomes as simple as running `Select Skin` from the command palette and choosing `Brogrammer` from the list.
