@@ -46,7 +46,7 @@
                     <key>selectionForeground</key>
                     <string>#ffffff</string>
                     <key>lineHighlight</key>
-                    <string>#2a2a2a</string>
+                    <string>#e74c3c</string>
                     <key>findHighlight</key>
                     <string>#e74c3c</string>
                     <key>inactiveSelection</key>
